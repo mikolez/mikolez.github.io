@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Qualcomm AI Research</a>. Amsterdam, Netherlands.
+subtitle: <a href='https://www.qualcomm.com/research/artificial-intelligence/ai-research'>Qualcomm AI Research</a>. Amsterdam, Netherlands.
 
 profile:
   align: right
-  image: profile_pic_02.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -22,7 +22,9 @@ Hello, welcome to my personal page!
 
 I am currently a Machine Learning Researcher/Engineer at Qualcomm AI Research working on efficient video generative AI.
 
-Prior to that I was a Master's student at KAIST in Robotics and Computer Vision Lab under supervision of Prof. In So Kweon. I was doing research in adversarial machine learning and its applications to multimedia.
+Prior to that I was a Master's student at KAIST in Robotics and Computer Vision (RCV) Lab under supervision of Prof. In So Kweon. I was doing research in adversarial machine learning and its applications to multimedia.
+
+I am always open to collaboration.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
