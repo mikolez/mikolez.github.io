@@ -6,7 +6,7 @@ subtitle: <a href='#'>Qualcomm AI Research</a>. Amsterdam, Netherlands.
 
 profile:
   align: right
-  image: prof_pic_02.jpg
+  image: profile_pic_02.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
