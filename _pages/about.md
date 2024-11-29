@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, welcome to my personal page!
 
-I am currently a Machine Learning Researcher and Engineer at [Qualcomm AI Research](https://www.qualcomm.com/research/ai-research) working on efficient video generative AI.
+I am currently a Machine Learning Researcher and Engineer at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) working on efficient video generative AI.
 
 Prior to that, I completed a Master’s degree at [KAIST](https://www.kaist.ac.kr/en/) in Robotics and Computer Vision (RCV) Lab under supervision of [Prof. In So Kweon](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en), during which I specialized in machine learning and computer vision research. My primary focus was on adversarial machine learning and its applications in multimedia. This work led to several publications in top-tier conferences and workshops such as CVPR, ICCV, NeurIPS, and AAAI. 
 
