@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /
+layout: page
+permalink: /cv/
 title: cv
 ---
 
