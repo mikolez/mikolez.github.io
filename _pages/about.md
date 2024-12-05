@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About
+permalink: /About/
 subtitle: <a href='https://www.qualcomm.com/research/artificial-intelligence/ai-research'>Qualcomm AI Research</a>. Amsterdam, Netherlands.
 
 profile:
