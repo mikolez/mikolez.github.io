@@ -6,12 +6,12 @@ nav: true
 nav_order: 3
 ---
 
-## Patents
+### Patents
 - Noise Injection for Generalized Blind Denoising (pending, 18/589,018)
 - Multimodal Guidance Distillation for Eﬃcient Diﬀusion Models (pending, 18/770,606)
 - Guidance Oscillation for Multi-Modal Diﬀusion Models (to be filed)
 
-## Awards
+### Awards
 
 - Outstanding Paper Award in CVPR 2021 AML-CV Workshop
 - 9th Place Award (out of 1681 teams) CVPR 2021 Security AI Challenger Phase VI (Alibaba Security, Tsinghua University, UIUC)
