@@ -6,7 +6,7 @@ subtitle: <a href='https://www.qualcomm.com/research/artificial-intelligence/ai-
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_03.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -22,7 +22,7 @@ Hello, welcome to my personal page!
 
 I am currently a Machine Learning Researcher and Engineer at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) working on efficient video generative AI. My work significantly contributed to the following: 
 - First on-device deep-learning-based video denoising solution at high resolution (QHD and 4K at 30FPS) and an associated patent
-- Two papers (one accepted at ECCV 2024 and the other is under review) and two patents about efficient video diffusion models
+- Two papers (one accepted at ECCV 2024 and the other one is under review) and two patents about efficient video diffusion models
 - The fastest diffusion-based mobile video editing demo on-device (NeurIPS 2024 demo)
 
 Prior to that, I completed a Master’s degree at [KAIST](https://www.kaist.ac.kr/en/) in Robotics and Computer Vision (RCV) Lab under supervision of [Prof. In So Kweon](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en). My primary focus was on adversarial machine learning and its applications in multimedia. This work led to several publications in top-tier conferences and workshops such as CVPR, ICCV, NeurIPS, ICLR, and others.
