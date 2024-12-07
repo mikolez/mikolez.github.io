@@ -27,13 +27,13 @@ I am currently a Machine Learning Researcher and Engineer at [Qualcomm AI Resear
 
 Prior to that, I completed a Master’s degree at [KAIST](https://www.kaist.ac.kr/en/) in Robotics and Computer Vision (RCV) Lab under supervision of [Prof. In So Kweon](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en). My primary focus was on adversarial machine learning and its applications in multimedia. This work led to several publications in top-tier conferences and workshops such as CVPR, ICCV, NeurIPS, ICLR, and others.
 
+**I am always open to new opportunities and collaborations, so please feel free to reach out!**
+
 <!-- Prior to my graduate studies, I earned my Bachelor’s degree in Computer Science from [KAIST](https://www.kaist.ac.kr/en/), where I interned in several research labs and worked on projects in computer vision, multimedia, and computer graphics. In addition, I interned at a robotics company, where I contributed to the development of a robotic vision system. 
  -->
-Overall, I have a good knowledge of current research trends in machine learning and ability to tackle open-ended problems with no clear or known solutions. In addition, I have a lot of experience working in small, quickly iterating research and engineering teams.
+<!-- Overall, I have a good knowledge of current research trends in machine learning and ability to tackle open-ended problems with no clear or known solutions. In addition, I have a lot of experience working in small, quickly iterating research and engineering teams.
 
-In my free time, among other things, I enjoy watching movies and TV series, playing football, board games, and table tennis.
-
-I am always open to new opportunities and collaborations, so please feel free to reach out!
+In my free time, among other things, I enjoy watching movies and TV series, playing football, board games, and table tennis. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
