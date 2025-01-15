@@ -9,7 +9,7 @@ nav_order: 3
 ### Patents
 - Noise Injection for Generalized Blind Denoising (pending, 18/589,018)
 - Multimodal Guidance Distillation for Eﬃcient Diﬀusion Models (pending, 18/770,606)
-- Guidance Oscillation for Multi-Modal Diﬀusion Models (to be filed)
+- Guidance Oscillation for Multi-Modal Diﬀusion Models (pending, 18/974,441)
 
 ### Awards
 
