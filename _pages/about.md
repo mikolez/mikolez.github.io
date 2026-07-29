@@ -21,9 +21,6 @@ social: true # includes social icons at the bottom of the page
 Hello, welcome to my personal page!
 
 I am currently a Machine Learning Researcher and Engineer at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) working on efficient video generative AI. My work significantly contributed to the following: 
-<!-- - First on-device deep-learning-based video denoising solution at high resolution (QHD and 4K at 30FPS) and an associated patent
-- Two papers (one accepted at ECCV 2024 and the other one is under review) and two patents about efficient video diffusion models
-- The fastest diffusion-based mobile video editing demo on-device ([NeurIPS 2024 demo](https://www.youtube.com/watch?v=aARq9YXEQEQ)) -->
 - **MobileWan**: Led an architecture optimization effort for the largest video generation diffusion transformer running on-device (based on Wan2.2-5B), developed a novel structured pruning method, improving efficiency without sacrificing quality. Paper under review.
 - **PyramidalWan**: Co-developed a step distillation method for a pyramidally-distilled video generation model, achieving a 10x inference speedup. Published at CVPR 2026; patent filed.
 - **Neodragon**: Contributed to step distillation techniques (2.5-10x speedup) for the first diffusion transformer based mobile video generation model. Presented as a NeurIPS 2025 demo and published at ICLR 2026; patent to be filed.
