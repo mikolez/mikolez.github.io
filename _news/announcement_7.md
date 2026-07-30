@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Heading to CVPR 2026 in Denver — looking forward to connecting, come say hi!
+Heading to **CVPR 2026** in Denver — looking forward to connecting, come say hi!

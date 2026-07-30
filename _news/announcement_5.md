@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Neodragon: Mobile Video Generation Using Diffusion Transformer* has been accepted at **ICLR 2026**! It's the first text-to-video system built specifically for mobile hardware, generating a 2-second video directly on-device in just ~6.7 seconds.
+Our paper *Neodragon: Mobile Video Generation Using Diffusion Transformer* has been accepted at **ICLR 2026**! It's the first text-to-video generation model built specifically for mobile hardware, generating a 2-second video directly on-device in just ~6.7 seconds.
